@@ -12,3 +12,6 @@ Uganda Government Modular Java System
 - Security: only exported packages are accessible; internal packages stay hidden from other modules.
 - Maintainability: each department works on its own module independently.
 - Scalability: new services can be added as new modules without changing existing ones.
+
+## How to run
+Open the project in IntelliJ IDEA and run the main class in gov.app.
